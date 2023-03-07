@@ -32,3 +32,7 @@ Thirukkural View:
   
   Requirement :
           MySQL connector-java
+
+
+Explanation Video Link:
+         https://youtu.be/q610gj_thjg
